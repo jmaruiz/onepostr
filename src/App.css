@@ -1,0 +1,9 @@
+.header nav a {
+  display: block;
+}
+label {
+  display: block;
+}
+input {
+  margin-bottom: 5px;
+}
